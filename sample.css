@@ -1,0 +1,14 @@
+html, body {
+    margin: 5px;
+    padding: 0;
+}
+
+html {
+    font-size: 90%;
+    height: 100%;
+  }
+  
+  /*****Tout le body****/
+  body {
+    height: 100%;
+  }
